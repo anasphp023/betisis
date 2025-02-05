@@ -18,3 +18,4 @@ bttmly
 anthonyrizk0
 dbellizzi
 urjitbhatia
+ClassDojoWebGuildMob
